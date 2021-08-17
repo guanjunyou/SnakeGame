@@ -1,0 +1,16 @@
+﻿  test.cpp
+c:\users\june\desktop\c++总\面向对象学习\snake\snake\test.cpp(103): warning C4474: sprintf_s: 格式字符串中传递的参数太多
+  c:\users\june\desktop\c++总\面向对象学习\snake\snake\test.cpp(103): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+c:\users\june\desktop\c++总\面向对象学习\snake\snake\test.cpp(104): warning C4474: sprintf_s: 格式字符串中传递的参数太多
+  c:\users\june\desktop\c++总\面向对象学习\snake\snake\test.cpp(104): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+c:\users\june\desktop\c++总\面向对象学习\snake\snake\test.cpp(105): warning C4474: sprintf_s: 格式字符串中传递的参数太多
+  c:\users\june\desktop\c++总\面向对象学习\snake\snake\test.cpp(105): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+c:\users\june\desktop\c++总\面向对象学习\snake\snake\test.cpp(109): warning C4474: sprintf_s: 格式字符串中传递的参数太多
+  c:\users\june\desktop\c++总\面向对象学习\snake\snake\test.cpp(109): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+c:\users\june\desktop\c++总\面向对象学习\snake\snake\test.cpp(112): warning C4474: sprintf_s: 格式字符串中传递的参数太多
+  c:\users\june\desktop\c++总\面向对象学习\snake\snake\test.cpp(112): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+c:\users\june\desktop\c++总\面向对象学习\snake\snake\test.cpp(115): warning C4474: sprintf_s: 格式字符串中传递的参数太多
+  c:\users\june\desktop\c++总\面向对象学习\snake\snake\test.cpp(115): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+c:\users\june\desktop\c++总\面向对象学习\snake\snake\test.cpp(118): warning C4474: sprintf_s: 格式字符串中传递的参数太多
+  c:\users\june\desktop\c++总\面向对象学习\snake\snake\test.cpp(118): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+  snake.vcxproj -> C:\Users\June\Desktop\C++总\面向对象学习\snake\Debug\snake.exe
